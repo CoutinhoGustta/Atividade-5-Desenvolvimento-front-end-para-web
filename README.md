@@ -139,6 +139,26 @@ O projeto também contribuiu para o aprendizado de organização de arquivos e d
 
 ---
 
+## Evidências do desenvolvimento
+
+O código-fonte do projeto está disponível neste repositório e pode ser consultado diretamente pelo GitHub.
+
+As evidências incluem:
+
+- Arquivos HTML das páginas desenvolvidas.
+- Estrutura semântica e organização do código.
+- Formulários e elementos de interação nativos do HTML.
+- Navegação entre as páginas do projeto.
+
+**Arquivos para consulta:**
+
+- [Página inicial](LINK_DO_ARQUIVO)
+- [Criação de personagem](LINK_DO_ARQUIVO)
+- [Ficha do personagem](LINK_DO_ARQUIVO)
+
+**Repositório:** [Hélia — Atividade 5](https://github.com/CoutinhoGustta/Atividade-5-Desenvolvimento-front-end-para-web)
+
+
 ## Minha contribuição
 
 Este projeto foi desenvolvido integralmente por mim como parte de uma atividade acadêmica.
