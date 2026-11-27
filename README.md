@@ -139,4 +139,21 @@ O projeto também contribuiu para o aprendizado de organização de arquivos e d
 
 ---
 
+## Minha contribuição
+
+Este projeto foi desenvolvido integralmente por mim como parte de uma atividade acadêmica.
+
+Fui responsável por:
+
+- Planejamento e estruturação do site.
+- Desenvolvimento de todas as páginas utilizando HTML5.
+- Criação de formulários e navegação entre páginas.
+- Aplicação de elementos semânticos do HTML.
+- Organização dos arquivos e recursos do projeto.
+- Documentação das funcionalidades desenvolvidas.
+
+O projeto foi desenvolvido exclusivamente com HTML5, sem utilização de CSS ou JavaScript, seguindo os requisitos da atividade.
+
+---
+
 ⚔️ **Hélia — Sua aventura começa aqui!**
