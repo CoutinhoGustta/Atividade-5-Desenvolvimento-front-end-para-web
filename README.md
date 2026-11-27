@@ -152,9 +152,9 @@ As evidências incluem:
 
 **Arquivos para consulta:**
 
-- [Página inicial](LINK_DO_ARQUIVO)
-- [Criação de personagem](LINK_DO_ARQUIVO)
-- [Ficha do personagem](LINK_DO_ARQUIVO)
+- [Página inicial](https://github.com/CoutinhoGustta/Atividade-5-Desenvolvimento-front-end-para-web/blob/main/index.html)
+- [Criação de personagem](https://github.com/CoutinhoGustta/Atividade-5-Desenvolvimento-front-end-para-web/blob/main/criar-personagem.html)
+- [Ficha do personagem](https://github.com/CoutinhoGustta/Atividade-5-Desenvolvimento-front-end-para-web/blob/main/ficha.html)
 
 **Repositório:** [Hélia — Atividade 5](https://github.com/CoutinhoGustta/Atividade-5-Desenvolvimento-front-end-para-web)
 
